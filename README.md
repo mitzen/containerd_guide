@@ -12,7 +12,7 @@ https://github.com/containerd/containerd/releases/tag/v1.4.0
 
 To pull image
 
-ctr image pull mcr.microsoft.com/windows/servercore/iis:windowsservercore-ltsc2022
+ctr image pull hello-world:nanoserver-ltsc2022 hello
 
 To run a container with the image called 'hello-world:nanoserver-ltsc2022' - a window image by the way. 
 
